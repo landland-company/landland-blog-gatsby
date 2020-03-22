@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Step By Step
+image: /img/landland_homepage.gif
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: プロダクトを愛し、アプリの成長と愚直に向き合う開発会社
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: LandLandの受託開発
+  description: >-
+    ランドランドの受託開発には様々なプランがあります。
+
+
+    IT企業として、言われたものをただ開発するのではなく、クリエイティブに物事を考えサービス利用者の事を親身に考えたサービスをお客様と寄り添って創造していきます。
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -19,32 +19,46 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: |-
+        打ち合わせ・要件確認
+
+        LandLandでは、ソースコードおよびデザインに責任を持つ担当者が打ち合わせに向かいます。
+
+        自分たちのできることに対して、正直に、責任を持って、実りある会議を進められるように致します。
+
+        強い要望がない箇所に関しては、こちらからもやり方やコストパフォーマンスのよい実装をご提案できるようにいたします。
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: |-
+        デザイン
+        アプリおよびWebに合ったそれぞれのプラットフォームにあった基本から外れないデザインをします。
+
+        KPIを意識して情報整理を心がけます。
+
+        インタラクションまで一貫してデザインし、重要な機能部分に関しては高速で簡易実装までし、認識すり合わせの精度を高めます。
+
+        デザインツールはSketch, Abstract, Zeplin, Figmaを使ったものになります。
+
+        高度なデザイン、キャラクターデザイン等は強みがありませんので、別デザイン会社との協力開発も受け付けております。
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        開発/テスト
+
+        使っていて楽しい、ストレスのない体験を実現することを重要視して開発しています。
+
+
+        特にアプリ開発においては、形にするスピードを重視しつつ、UI層、ドメイン層、データ層を切り分け、作っていく上でのある程度仕様変更に強い設計を目指します。
+
+
+        要件に合ったコストパフォーマンスの良い代替案も提案させていただきます。
+
+
+        開発工数とスケジュールを切り分けて考えているので、不透明な稼働請求は発生しないようにしています。
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: |-
+        運用保守
+        アプリケーションの運用に必要なドキュメントなどを整備してお渡し致します。
+
+        お客様のご要望にもできる限り対応致しますのでご安心ください。
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -59,12 +73,12 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: 打ち合わせ・要件確認
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Yaaa
+    image: /img/icon_huuum.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/icon_pease-1x.png
 ---
