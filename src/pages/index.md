@@ -5,17 +5,11 @@ image: /img/landland_homepage.gif
 heading: 数字と遊び心を両立させる開発と提案
 subheading: プロダクトを愛し、アプリの成長と愚直に向き合う開発会社
 mainpitch:
-  title: LandLandの受託開発
-  description: >-
-    ランドランドの受託開発には様々なプランがあります。
-
-
-    IT企業として、言われたものをただ開発するのではなく、クリエイティブに物事を考えサービス利用者の事を親身に考えたサービスをお客様と寄り添って創造していきます。
+  title: 愛されるプロダクトを作り、システム嫌いをなくしたい
+  description: 使いにくい、難しいなどのイメージを取り去り、多くの人に喜ばれるものづくりをする
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  言われたものをただ開発するのではなく、クリエイティブに物事を考えサービス利用者、ビジネスオーナーの事を親身に考えたサービスを創造していきます。 
+  日々外部サービスや新機能といった開発面の研究や、関係するビジネスについての知識獲得し、お客様のご要望、ご状況に応じて、最適な開発プランを提供します。
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -59,12 +53,8 @@ intro:
         アプリケーションの運用に必要なドキュメントなどを整備してお渡し致します。
 
         お客様のご要望にもできる限り対応致しますのでご安心ください。
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: 愛されるプロダクトを作りのために
+  description: よりよいデザイン、よりよい機能、新しいユーザー体験、他社の良いところを日々研究し、 ノウハウをしっかりプロダクトに繋げる
 main:
   heading: Great coffee with no compromises
   description: >
