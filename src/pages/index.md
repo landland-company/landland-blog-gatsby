@@ -12,7 +12,7 @@ description: >-
   日々外部サービスや新機能といった開発面の研究や、関係するビジネスについての知識獲得し、お客様のご要望、ご状況に応じて、最適な開発プランを提供します。
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/meeting.jpg
       text: |-
         打ち合わせ・要件確認
 
