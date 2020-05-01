@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Step By Step
 image: /img/landland_homepage.gif
-heading: Great coffee with a conscience
+heading: 数字と遊び心を両立させる開発と提案
 subheading: プロダクトを愛し、アプリの成長と愚直に向き合う開発会社
 mainpitch:
   title: LandLandの受託開発
