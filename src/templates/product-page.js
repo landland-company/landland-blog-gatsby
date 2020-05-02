@@ -82,7 +82,6 @@ export const ProductPageTemplate = ({
                 {pricing.heading}
               </h2>
               <p className="is-size-5">{pricing.description}</p>
-              <Pricing data={pricing.plans} />
             </div>
           </div>
         </div>
@@ -110,7 +109,6 @@ ProductPageTemplate.propTypes = {
   pricing: PropTypes.shape({
     heading: PropTypes.string,
     description: PropTypes.string,
-    plans: PropTypes.array,
   }),
 }
 
@@ -215,12 +213,6 @@ export const productPageQuery = graphql`
         pricing {
           heading
           description
-          plans {
-            description
-            items
-            plan
-            price
-          }
         }
       }
     }
