@@ -11,26 +11,16 @@ intro:
       text: >-
         スポーツキュレーションアプリ :
         アプリケーションの設計・開発・保守を担当しています。要件定義から、iOS/Android/デザイン領域をカバーしたワンストップでの開発を実施しております。
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/movie.png
+      text: >-
+        動画配信アプリ :
+        アプリケーションの設計・開発・保守を担当しています。要件定義から、iOS/Android/デザイン領域をカバーしたワンストップでの開発を実施しております。
+    - image: /img/home.png
+      text: |-
+        子供向け動画通話アプリ : 既存iOSアプリのAndroid版を担当しました。
+        RTMPを使ったリアルタイム通信アプリを短期間でリリースしました。
+    - image: /img/school.png
+      text: 'クイズアプリ : 新規アプリケーションの設計・開発を担当しています。デザイン/インタラクションにこだわり、細かい操作性の調整等を行いました。'
   heading: 多くの新技術を活用した数々のプロジェクトに携わっています。
   description: 新技術を活用した非公開実績も多数あります。
 main:
