@@ -24,15 +24,16 @@ intro:
   heading: 多くの新技術を活用した数々のプロジェクトに携わっています。
   description: 新技術を活用した非公開実績も多数あります。
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 自社サービス
+  description: |-
+    弊社では日々新しい技術や体験を研究しており、そこで生まれるサービスもあります。
+    少しでも世の中の人に役に立てばと思っております。
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: >-
+      YouTooは、オリジナルのプロフィールを面白おかしく作成できるアプリです。出会った人とプロフィールを交換することで、趣味や職業、伝えたいことをわかりやすく伝えることができます！ 
+      ふとしたときにこのアプリがあれば、繋がりを引き寄せるキッカケになります！ 
+      オリジナルのプロフィールを作成して新しい友達・共通点をもった人と交流して楽しみましょう！
+    image: /img/youtoo.png
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
