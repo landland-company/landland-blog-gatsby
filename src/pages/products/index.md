@@ -8,12 +8,9 @@ description: ※非公開実績も多数あります。
 intro:
   blurbs:
     - image: /img/basketball.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        スポーツキュレーションアプリ :
+        アプリケーションの設計・開発・保守を担当しています。要件定義から、iOS/Android/デザイン領域をカバーしたワンストップでの開発を実施しております。
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
