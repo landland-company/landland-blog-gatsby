@@ -1,19 +1,23 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: 事業内容
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### UI/UXデザイン
+アプリ、WEBサービスなど、ビジネスの成功率をあげるUI/UX設計を提案します。
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### 企画
+デザイナー・ライター・動画制作などのフリーランスと協力関係にあるため、一貫した施作提案から開発・運用まで実施可能です。
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### 開発
+Webサービス、スマホアプリの開発を行います。仕様把握から対応してきた実績も多々あり、スムーズな運営を実施しシステム改善に繋げることが出来ます。
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### 技術
+カンファレンス、他社エンジニアとの技術交流会などに積極的に参加し、最新の技術やコストパフォーマンスのよい開発の研究を行なっております。
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### コンサルティング
+仕様検討段階から参画し、費用対効果を考えた具体的な計画・システム開発設計等まで落とし込んでいきます。
+
+### 人材
+研修制度を設けており、未経験の方でも約2ヶ月間プログラミングの基礎を学べ、スキルと知識を身に付ける事ができます。
+また定期的な社内勉強会、コードキャッチアップをしっかりと行い、全体レベルの底上げを行っています。
