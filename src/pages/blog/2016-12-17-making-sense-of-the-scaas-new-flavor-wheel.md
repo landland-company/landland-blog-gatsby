@@ -1,33 +1,33 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: 2段階認証
 date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: 2段階認証について噛み砕いて理解する
+featuredpost: true
+featuredimage: /img/icon_base.png
 tags:
-  - flavor
-  - tasting
+  - knowledge
+  - security
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+2段階認証
+検討対象のサービスが2段階認証に対応していて、そのアカウントが重要だと思う場合は有効にしてください。
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+2段階認証とは？
+MFA 
+二段階認証とは、自分が覚えている要素と自分が覚えていない要素の掛け合わせを二段階で行い個人を認証する方式
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
 
-## What the updates mean to you
+[* 自分が覚えている要素]
+What you know(knowledge factor) id&pass, phone, pin  自分が知ってるもの
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+[* 自分が覚えている要素以外]
+What you have(possesion factor) sms, device, qr, onetimepassowrd 自分が持っているもの
+What you are (inharence factor) finger face 自分の特性、生体情報
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+2つ以上の要素の掛け合わせが二要素認証
+これらを二段階に分けて認証するのが二段階認証
+メールによる認証
+電話番号（SMS）による認証
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+https://news.yahoo.co.jp/byline/kandatoshiaki/20190708-00133324/
