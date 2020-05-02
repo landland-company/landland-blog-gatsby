@@ -33,7 +33,7 @@ intro:
         デザインツールはSketch, Abstract, Zeplin, Figmaを使ったものになります。
 
         高度なデザイン、キャラクターデザイン等は強みがありませんので、別デザイン会社との協力開発も受け付けております。
-    - image: /img/tutorials.png
+    - image: /img/program.png
       text: >-
         開発/テスト
 
@@ -47,7 +47,7 @@ intro:
 
 
         開発工数とスケジュールを切り分けて考えているので、不透明な稼働請求は発生しないようにしています。
-    - image: /img/meeting-space.png
+    - image: /img/analytics.png
       text: |-
         運用保守
         アプリケーションの運用に必要なドキュメントなどを整備してお渡し致します。
@@ -56,19 +56,15 @@ intro:
   heading: 愛されるプロダクトを作りのために
   description: よりよいデザイン、よりよい機能、新しいユーザー体験、他社の良いところを日々研究し、 ノウハウをしっかりプロダクトに繋げる
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: ビジネスとデザインと開発の密接なやり取り
+  description: 関わるチームのメンバーを信頼し、尊重し、様々な視点からプロダクトをブラッシュアップ
   image1:
-    alt: 打ち合わせ・要件確認
-    image: /img/products-grid3.jpg
+    alt: "\b驚きと感動を"
+    image: /img/icon_ausome.png
   image2:
-    alt: Yaaa
+    alt: 冷静沈着な開発
     image: /img/icon_huuum.png
   image3:
-    alt: Coffee beans
+    alt: シンプルで使いやすい
     image: /img/icon_pease-1x.png
 ---
