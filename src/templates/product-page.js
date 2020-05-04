@@ -13,7 +13,6 @@ export const ProductPageTemplate = ({
   description,
   intro,
   main,
-  fullImage,
   pricing,
 }) => (
   <div className="content">
@@ -57,32 +56,15 @@ export const ProductPageTemplate = ({
                   <p>{main.description}</p>
                 </div>
               </div>
-              <div className="tile is-ancestor">
-                <div className="tile is-vertical">
-                  <div className="tile">
-                    <div className="tile is-parent is-vertical">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image1} />
-                      </article>
-                    </div>
-                    <div className="tile is-parent">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image2} />
-                      </article>
-                    </div>
-                  </div>
-                  <div className="tile is-parent">
-                    <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
-                    </article>
-                  </div>
-                </div>
+              <a title="youtoo" href="https://youtoooo.com/">
+                  <img
+                    src={"img/youtoo.png"}
+                    alt="youtoo"
+                    style={{ width: '10em', height: '10em' }}
+                  />
+              </a>
+              <p>YouTooは、オリジナルのプロフィールを面白おかしく作成できるアプリです。<br></br>出会った人とプロフィールを交換することで、趣味や職業、伝えたいことをわかりやすく伝えることができます！<br></br>ふとしたときにこのアプリがあれば、繋がりを引き寄せるキッカケになります！<br></br>オリジナルのプロフィールを作成して新しい友達・共通点をもった人と交流して楽しみましょう！</p>
               </div>
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
-            </div>
           </div>
         </div>
       </div>
