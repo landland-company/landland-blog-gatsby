@@ -46,23 +46,25 @@ export const ProductPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-3">
+              <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
-                  <p>{main.description}</p>
-                </div>
-              </div>
-              <a title="youtoo" href="https://youtoooo.com/">
-                  <img
+              <p>{main.description}</p>              
+              <img
                     src={"img/youtoo.png"}
                     alt="youtoo"
                     style={{ width: '10em', height: '10em' }}
                   />
+              <br></br>
+              <a title="youtoo" href="https://youtoooo.com/">
+                  <img
+                    src={"img/google-play-badge.png"}
+                    alt="google-play-badge"
+                    style={{ width: '10em', height: '4em' }}
+                  />
               </a>
               <p>YouTooは、オリジナルのプロフィールを面白おかしく作成できるアプリです。<br></br>出会った人とプロフィールを交換することで、趣味や職業、伝えたいことをわかりやすく伝えることができます！<br></br>ふとしたときにこのアプリがあれば、繋がりを引き寄せるキッカケになります！<br></br>オリジナルのプロフィールを作成して新しい友達・共通点をもった人と交流して楽しみましょう！</p>
-              </div>
+            </div>
           </div>
         </div>
       </div>
