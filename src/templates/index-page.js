@@ -17,13 +17,9 @@ export const IndexPageTemplate = ({
 }) => (
   <div>
     <div
-      className="full-width-image margin-top-0"
+      className="full-width-image-container margin-top-0"
       style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
+        backgroundImage: `url(img/landland_homepage.gif)`
       }}
     >
       <div
