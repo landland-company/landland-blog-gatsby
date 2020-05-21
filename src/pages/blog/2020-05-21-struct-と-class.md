@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Struct と Class
 date: 2020-05-05T17:17:25.791Z
 description: struct と　struct mutating func、classの挙動の違い
-featuredpost: false
+featuredpost: true
 featuredimage: /img/icon_pease-1x.png
 tags:
   - swift class struct
