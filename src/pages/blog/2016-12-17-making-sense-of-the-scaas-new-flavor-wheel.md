@@ -16,11 +16,10 @@ tags:
 MFA 
 二段階認証とは、自分が覚えている要素と自分が覚えていない要素の掛け合わせを二段階で行い個人を認証する方式
 
-
-[* 自分が覚えている要素]
+## 自分が覚えている要素
 What you know(knowledge factor) id&pass, phone, pin  自分が知ってるもの
 
-[* 自分が覚えている要素以外]
+## 自分が覚えている要素以外
 What you have(possesion factor) sms, device, qr, onetimepassowrd 自分が持っているもの
 What you are (inharence factor) finger face 自分の特性、生体情報
 
