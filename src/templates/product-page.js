@@ -73,11 +73,32 @@ export const ProductPageTemplate = ({
               <a title="monsterfilter" href="https://itunes.apple.com/jp/app/id1512883792?mt=8">
                   <img
                     src={"img/applestore.svg"}
+                    alt="applestore-badge"
+                    style={{ width: '8em', height: '3em' }}
+                  />
+              </a>
+              <p>monsterfilterはSafariを使用してサイトを閲覧する際に広告・画像・SNS共有ボタン・トラッキングなど自分がブロックしたいコンテンツをブロック出来るアプリです。<br></br>ポップアップ広告、×や閉じるを押しても消えない広告、バナー広告などサイトをブラウジングする際に煩わしく感じる広告をブロックします。</p>
+              <img
+                    src={"img/shibuya_lanch.png"}
+                    alt="monsterfilter"
+                    style={{ width: '10em', height: '10em' }}
+                  />
+              <br></br>
+              <a title="shibuya_lanch" href="https://itunes.apple.com/jp/app/id1510506481?mt=8">
+                  <img
+                    src={"img/applestore.svg"}
+                    alt="applestore-badge"
+                    style={{ width: '8em', height: '4em' }}
+                  />
+              </a>
+              <a title="shibuya_lanch" href="https://play.google.com/store/apps/details?id=tech.landland.shibuya_dejeuner">
+                  <img
+                    src={"img/google-play-badge.png"}
                     alt="google-play-badge"
                     style={{ width: '10em', height: '4em' }}
                   />
               </a>
-              <p>monsterfilterはSafariを使用してサイトを閲覧する際に広告・画像・SNS共有ボタン・トラッキングなど自分がブロックしたいコンテンツをブロック出来るアプリです。<br></br>ポップアップ広告、×や閉じるを押しても消えない広告、バナー広告などサイトをブラウジングする際に煩わしく感じる広告をブロックします。</p>
+              <p>渋谷deランチはランチを決めるときはお店をルーレットで選ぶという弊社内の文化から生まれたアプリです。<br></br>今日のランチはあそこへ行こう！<br></br>お店をじっくり選ぶもすぐ選ぶもその日の気分でよし。<br></br>渋谷のランチを制覇しよう。</p>
             </div>
           </div>
         </div>
