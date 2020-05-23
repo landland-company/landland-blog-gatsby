@@ -8,7 +8,7 @@ featuredimage: /img/icon_pease-1x.png
 tags:
   - swift class struct
 ---
-struct と　struct mutating func、classの挙動の違い
+
 
 ```
 import UIKit
