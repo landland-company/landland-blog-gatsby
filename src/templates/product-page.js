@@ -64,6 +64,20 @@ export const ProductPageTemplate = ({
                   />
               </a>
               <p>YouTooは、オリジナルのプロフィールを面白おかしく作成できるアプリです。<br></br>出会った人とプロフィールを交換することで、趣味や職業、伝えたいことをわかりやすく伝えることができます！<br></br>ふとしたときにこのアプリがあれば、繋がりを引き寄せるキッカケになります！<br></br>オリジナルのプロフィールを作成して新しい友達・共通点をもった人と交流して楽しみましょう！</p>
+              <img
+                    src={"img/monsterfilter.png"}
+                    alt="monsterfilter"
+                    style={{ width: '10em', height: '10em' }}
+                  />
+              <br></br>
+              <a title="monsterfilter" href="https://itunes.apple.com/jp/app/id1512883792?mt=8">
+                  <img
+                    src={"img/applestore.svg"}
+                    alt="google-play-badge"
+                    style={{ width: '10em', height: '4em' }}
+                  />
+              </a>
+              <p>monsterfilterはSafariを使用してサイトを閲覧する際に広告・画像・SNS共有ボタン・トラッキングなど自分がブロックしたいコンテンツをブロック出来るアプリです。<br></br>ポップアップ広告、×や閉じるを押しても消えない広告、バナー広告などサイトをブラウジングする際に煩わしく感じる広告をブロックします。</p>
             </div>
           </div>
         </div>
