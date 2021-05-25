@@ -99,6 +99,27 @@ export const ProductPageTemplate = ({
                   />
               </a>
               <p>渋谷deランチはランチを決めるときはお店をルーレットで選ぶという弊社内の文化から生まれたアプリです。<br></br>今日のランチはあそこへ行こう！<br></br>お店をじっくり選ぶもすぐ選ぶもその日の気分でよし。<br></br>渋谷のランチを制覇しよう。</p>
+              <img
+                    src={"img/lovesign.png"}
+                    alt="lovesign"
+                    style={{ width: '10em', height: '10em' }}
+                  />
+              <br></br>
+              <a title="love sign" href="https://itunes.apple.com/jp/app/id1512883792?mt=8">
+                  <img
+                    src={"img/applestore.svg"}
+                    alt="applestore-badge"
+                    style={{ width: '8em', height: '3em' }}
+                  />
+              </a>
+              <a title="love sign" href="https://play.google.com/store/apps/details?id=tech.landland.lovesign">
+                  <img
+                    src={"img/google-play-badge.png"}
+                    alt="google-play-badge"
+                    style={{ width: '10em', height: '4em' }}
+                  />
+              </a>
+              <p>love signは往年のYES/NO枕をデータ管理できるアプリです。<br></br>大切なパートナーと相互登録しましょう。「性的同意」の取組の第一歩としても使えて便利ですよ。</p>
             </div>
           </div>
         </div>
